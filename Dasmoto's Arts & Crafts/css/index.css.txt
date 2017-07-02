@@ -1,0 +1,27 @@
+header{
+	font-family: Helvetica;
+	font-size: 100px;
+	font-weight:bold;
+	color: khaki;
+}
+items1{
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight:bold;
+	color: white;
+	background-color: mediumspringgreen;
+}
+items2{
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	background-color: lightcoral;
+}
+items3{
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight:bold;
+	color: white;
+	background-color: skyblue;
+}
